@@ -86,7 +86,7 @@
                             </div>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-1.jpg') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-6.jpg') }}" alt="">
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-2.jpg') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-6.jpg') }}" alt="">
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-3.jpg') }}" alt="">
+                            <img class="img-fluid" src="{{ asset('assets/Frontend/img/courses-6.jpg') }}" alt="">
                             <div class="causes-overlay">
                                 <a class="btn btn-outline-primary" href="">
                                     Read More
