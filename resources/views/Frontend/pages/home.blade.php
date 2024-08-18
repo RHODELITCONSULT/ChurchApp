@@ -21,15 +21,20 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="h-100">
                         <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
-                        <h1 class="display-6 mb-5">We Help People In Need Around The World</h1>
+                        <h1 class="display-6 mb-5">We are a community rooted in the profound commandment to love one another.</h1>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
-                            <p class="text-dark mb-2">Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet lorem
-                                sit clita duo justo erat amet</p>
-                            <span class="text-primary">Jhon Doe, Founder</span>
+                            <p class="text-dark mb-2">Our faith compels us to extend compassion and support to all, regardless of their circumstances. 
+                                We are committed to being a haven where the weak find strength, the troubled find solace, and the marginalized find empowerment.</p>
+                            <span class="text-primary">Pastor Sheila</span>
                         </div>
-                        <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam
-                            et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
-                            amet</p>
+                        <p class="mb-5">Through acts of kindness and service, we strive to reflect the love of Christ in our relationships with one another. 
+                            Our church is a place where individuals can experience genuine care and encouragement, fostering a supportive environment that nurtures spiritual growth.
+
+                        Moreover, we are passionate about uplifting those who have been oppressed or overlooked. By equipping and empowering the downtrodden, we seek to create a more 
+                        just and equitable world. Our aim is to inspire hope and ignite potential in every individual, enabling them to reach their full potential in Christ.
+
+                        Ultimately, our mission is to demonstrate the transformative power of God's love by living it out tangibly in our lives and in our community. 
+                        We believe that by strengthening the weak, comforting the masses, and empowering the downtrodden, we are fulfilling our calling as followers of Jesus Christ.</p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="">
                             Learn More
                             <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
@@ -54,8 +59,8 @@
     <div class="container-xxl bg-light my-5 py-5">
         <div class="container py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Feature Causes</div>
-                <h1 class="display-6 mb-5">Every Child Deserves The Opportunity To Learn</h1>
+                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Events</div>
+                <h1 class="display-6 mb-5">Upcoming Events</h1>
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
