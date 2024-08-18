@@ -3,7 +3,7 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
-                <h1 class="fw-bold text-primary mb-4">Chari<span class="text-white">Team</span></h1>
+                <h1 class="fw-bold text-primary mb-4">L<span class="text-white">OM</span></h1>
                 <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
@@ -14,9 +14,9 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Address</h5>
-                <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                <p><i class="fa fa-map-marker-alt me-3"></i>500 W Southern Ave<br>Suite 31 Mesa Arizona</p>
+                <p><i class="fa fa-phone-alt me-3"></i>+1 480-243-2542</p>
+                <p><i class="fa fa-envelope me-3"></i>logos@gmail.com</p>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Quick Links</h5>
@@ -40,11 +40,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="#">Your Site Name</a>, All Right Reserved.
+                    &copy; <?php echo date('Y'); ?><a href="#"> Logos Outreach Ministries </a>, All Right Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    Designed By <a href="https://htmlcodex.com">HTML Codex</a>
+                    Designed By <a href="https://rhodelitconsult.com">RHODEL IT CONSULT</a>
                 </div>
             </div>
         </div>
