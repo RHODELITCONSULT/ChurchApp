@@ -1,7 +1,7 @@
 @extends('Frontend.layout.app')
 @section('content')
     <!-- Carousel Start -->
-    @include('Frontend.includes.hero')
+    @include('Frontend.includes.hero', ["headers"=>$headers] )
     <!-- Carousel End -->
 
 
@@ -23,17 +23,17 @@
                         <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">About Us</div>
                         <h1 class="display-6 mb-5">We are a community rooted in the profound commandment to love one another.</h1>
                         <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
-                            <p class="text-dark mb-2">Our faith compels us to extend compassion and support to all, regardless of their circumstances. 
+                            <p class="text-dark mb-2">Our faith compels us to extend compassion and support to all, regardless of their circumstances.
                                 We are committed to being a haven where the weak find strength, the troubled find solace, and the marginalized find empowerment.</p>
                             <span class="text-primary">Pastor Sheila</span>
                         </div>
-                        <p class="mb-5">Through acts of kindness and service, we strive to reflect the love of Christ in our relationships with one another. 
+                        <p class="mb-5">Through acts of kindness and service, we strive to reflect the love of Christ in our relationships with one another.
                             Our church is a place where individuals can experience genuine care and encouragement, fostering a supportive environment that nurtures spiritual growth.
 
-                        Moreover, we are passionate about uplifting those who have been oppressed or overlooked. By equipping and empowering the downtrodden, we seek to create a more 
+                        Moreover, we are passionate about uplifting those who have been oppressed or overlooked. By equipping and empowering the downtrodden, we seek to create a more
                         just and equitable world. Our aim is to inspire hope and ignite potential in every individual, enabling them to reach their full potential in Christ.
 
-                        Ultimately, our mission is to demonstrate the transformative power of God's love by living it out tangibly in our lives and in our community. 
+                        Ultimately, our mission is to demonstrate the transformative power of God's love by living it out tangibly in our lives and in our community.
                         We believe that by strengthening the weak, comforting the masses, and empowering the downtrodden, we are fulfilling our calling as followers of Jesus Christ.</p>
                         <a class="btn btn-primary py-2 px-3 me-3" href="">
                             Learn More

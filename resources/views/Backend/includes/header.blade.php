@@ -14,11 +14,14 @@
 
     <link rel="stylesheet" href="{{ asset('assets/Backend/css/bootstrap.min.css') }}" />
 
+    <link rel="stylesheet" href="{{ asset('assets/Backend/plugins/toastr/toatr.css')}}" />
+
     <link rel="stylesheet" href="{{ asset('assets/Backend/css/animate.css') }}" />
 
     <link rel="stylesheet" href="{{ asset('assets/Backend/css/dataTables.bootstrap4.min.css') }}" />
 
     <link rel="stylesheet" href="{{ asset('assets/Backend/plugins/fontawesome/css/fontawesome.min.css') }}" />
+    
     <link rel="stylesheet" href="{{ asset('assets/Backend/plugins/fontawesome/css/all.min.css') }}" />
 
     <link rel="stylesheet" href="{{ asset('assets/Backend/css/style.css') }}" />
